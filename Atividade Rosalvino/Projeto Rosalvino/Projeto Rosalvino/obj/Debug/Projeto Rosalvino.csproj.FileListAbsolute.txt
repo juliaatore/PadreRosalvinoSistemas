@@ -1,0 +1,10 @@
+C:\Users\CP\Desktop\Atividade Rosalvino\Projeto Rosalvino\Projeto Rosalvino\bin\Debug\Projeto Rosalvino.exe.config
+C:\Users\CP\Desktop\Atividade Rosalvino\Projeto Rosalvino\Projeto Rosalvino\bin\Debug\Projeto Rosalvino.exe
+C:\Users\CP\Desktop\Atividade Rosalvino\Projeto Rosalvino\Projeto Rosalvino\bin\Debug\Projeto Rosalvino.pdb
+C:\Users\CP\Desktop\Atividade Rosalvino\Projeto Rosalvino\Projeto Rosalvino\obj\Debug\Projeto Rosalvino.csproj.AssemblyReference.cache
+C:\Users\CP\Desktop\Atividade Rosalvino\Projeto Rosalvino\Projeto Rosalvino\obj\Debug\Projeto_Rosalvino.Form1.resources
+C:\Users\CP\Desktop\Atividade Rosalvino\Projeto Rosalvino\Projeto Rosalvino\obj\Debug\Projeto_Rosalvino.Properties.Resources.resources
+C:\Users\CP\Desktop\Atividade Rosalvino\Projeto Rosalvino\Projeto Rosalvino\obj\Debug\Projeto Rosalvino.csproj.GenerateResource.cache
+C:\Users\CP\Desktop\Atividade Rosalvino\Projeto Rosalvino\Projeto Rosalvino\obj\Debug\Projeto Rosalvino.csproj.CoreCompileInputs.cache
+C:\Users\CP\Desktop\Atividade Rosalvino\Projeto Rosalvino\Projeto Rosalvino\obj\Debug\Projeto Rosalvino.exe
+C:\Users\CP\Desktop\Atividade Rosalvino\Projeto Rosalvino\Projeto Rosalvino\obj\Debug\Projeto Rosalvino.pdb
